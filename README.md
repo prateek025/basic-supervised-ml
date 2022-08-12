@@ -1,4 +1,4 @@
-# **Basic Supervised ML in Python**
+# **Supervised ML in Python**
 
 ## I. Repository Overview
 
